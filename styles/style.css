@@ -171,9 +171,9 @@ body {
     }
     
     .foto{
-        margin-top: 2em;
-        height: 15.25rem;
-        width: 15.625rem;
+        margin-top: 0;
+        height: 0;
+        width: 0;
     }
 
     }
